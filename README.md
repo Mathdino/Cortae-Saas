@@ -1,6 +1,6 @@
-# 🪒 Cortae - Sistema de Agendamento para Barbearias
+# 🪒 Cortaê - Sistema de Agendamento para Barbearias
 
-Cortae é uma plataforma SaaS moderna que conecta clientes a barbearias, oferecendo um sistema de agendamento intuitivo e eficiente.
+Cortaê é uma plataforma SaaS moderna que conecta clientes a barbearias, oferecendo um sistema de agendamento intuitivo e eficiente.
 
 ## ✨ Funcionalidades Principais
 
